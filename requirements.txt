@@ -6,3 +6,4 @@ gym
 transformers
 requests
 apscheduler
+pytorch
