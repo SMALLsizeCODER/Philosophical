@@ -1,0 +1,8 @@
+Flask
+tensorflow
+numpy
+networkx
+gym
+transformers
+requests
+apscheduler
